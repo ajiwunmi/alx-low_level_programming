@@ -7,9 +7,8 @@
  *
  * Description: 'Checks a random number if positive, negative or Zero'
  *
- * return: return 0
+ * return: Terminate program 0
  */
-
 int main(void)
 {
 
