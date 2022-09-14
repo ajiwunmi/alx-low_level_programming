@@ -1,38 +1,32 @@
-
-/*
- * File: 11-print_to_98.c
- * Auth: Taiwo Aremu
- */
 #include <stdio.h>
 #include "main.h"
+
 /**
- * print_to_98 - prints all natural numbers from n to 98.
- * @n: parameter
- * Return: void.
+ * print_to_98 - Prints all natural numbers from n to 98
+ *
+ * @n: The integer to be passed to the function
  */
 void print_to_98(int n)
 {
-int i;
+	int i, j;
 
-if (n <= 98)
-{
-for (i = n; i <= 98; i++)
-{
-    if (i != 98)
-        printf("%d, ",i);
-    else    
-        printf("%d",i);
-}
-} 
-else
-{
-    for (i = n; i >= 98; i--)
-    {
-        if (i != 98)
-            printf("%d, ",i);
-        else    
-            printf("%d",i);
-    }
-}
-    printf("\n");
+	if (n <= 98)
+	{
+		for (i = n; i <= 98; i++)
+		{
+			if (i != 98)
+				printf("%d, ", i);
+			else if (i == 98)
+				printf("%d\n", i);
+		}
+	} else if (n >= 98)
+	{
+		for (j = n; j >= 98; j--)
+		{
+			if (j != 98)
+				printf("%d, ", j);
+			else if (j == 98)
+				printf("%d\n", j);
+		}
+	}
 }
