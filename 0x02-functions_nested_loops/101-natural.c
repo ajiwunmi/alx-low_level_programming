@@ -10,7 +10,7 @@
  * 
  * Return: int sum of multiples.
  */
-void print_sum_natural()
+void print_sum_natural(void)
 {
 	int b = 3;
 	int a = 5;
