@@ -1,7 +1,6 @@
 /*
  * File: 7-print_diagonal.c
- * Auth: Ebenezer Sam-Oladapo
- */
+ * Auth:Aremu Taiwo
 
 #include "main.h"
 /**
