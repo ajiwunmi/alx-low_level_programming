@@ -1,6 +1,6 @@
 /*
  * File: 10-print_triangle.c
- * Auth: Ebenezer Sam-Oladapo
+ * Auth: Aremu taiwo
  */
 
 #include "main.h"
