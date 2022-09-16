@@ -1,6 +1,6 @@
 /*
  * File: 4-print_most_numbers.c
- * Auth: Ebenezer Sam-Oladapo
+ * Auth:Aremu Taiwo
  */
 
 #include "main.h"
