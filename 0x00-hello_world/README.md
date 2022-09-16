@@ -35,4 +35,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Ebenezer Sam-Oladapo** - [code-vibe](https://github.com/code-vibe)
+* **Aremu Taiwo** - [Aremu Taiwo](https://github.com/ajiwunmi)
