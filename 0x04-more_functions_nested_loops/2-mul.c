@@ -1,6 +1,6 @@
 /*
  * File: 2-mul.c
- * Auth: Ebenezer Sam-Oladapo
+ * Auth: Aremu Taiwo
  */
 
 #include "main.h"
