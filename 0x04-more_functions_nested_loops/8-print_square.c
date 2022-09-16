@@ -1,6 +1,6 @@
 /*
  * File: 8-print_square.c
- * Auth: Ebenezer Sam-Oladapo
+ * Auth: Aremu Taiwo
  */
 
 #include "main.h"
