@@ -1,6 +1,6 @@
 /*
  * File: 0-isupper.c
- * Auth: Ebenezer Sam-Oladapo
+ * Auth: Aremu Taiwo
  */
 
 #include "main.h"
