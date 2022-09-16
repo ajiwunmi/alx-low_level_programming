@@ -1,6 +1,6 @@
 /*
  * File: 5-more_numbers.c
- * Auth: Ebenezer Sam-Oladapo
+ * Auth: Aremu Taiwo
  */
 #include "main.h"
 /**
