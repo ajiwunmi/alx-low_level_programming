@@ -1,6 +1,6 @@
 /*
  * File: 9-fizz_buzz.c
- * Auth: Ebenezer Sam-Oladapo
+ * Auth: Aremu Taiwo
  */
 
 #include <stdio.h>
