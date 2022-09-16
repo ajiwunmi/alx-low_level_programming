@@ -1,6 +1,6 @@
 /*
  * File: 100-prime_factor.c
- * Auth: Ebenezer Sam-Oladapo
+ * Auth: Author Tag
  */
 
 #include <stdio.h>
